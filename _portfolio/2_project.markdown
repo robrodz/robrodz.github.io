@@ -1,55 +1,48 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/2.jpg
+title: Improving the Dorm Experience
+description: UX Design
+img: /img/dormexperience/dormexperience.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
-
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/dormexperience.png" alt="" title=""/>
 </div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+Improving the Dorm Experience was a project done for a design course at UC Berkeley. Our goal was to select a group of UC Berkeley students and improve an aspect of their life here on campus.
+
+<h3>The Problem:</h3>
+Students face many restrictions as dorm residents, what is the biggest issue resulting from these restrictions and how can we improve it?
+<h3>My Role:</h3>
+<ul>
+	<li>Conduct Interviews and design survey.</li>
+	<li>Generate possible solutions and assess their potential effectiveness.</li>
+</ul>
+<h3>Research Goals:</h3>
+<ul>
+	<li>Determine which restrictions affect dorm residents the most.</li>
+	<li>Assess how effective current solutions are to these problems.</li>
+	<li>Generate low effort, high return solutions.</li>
+</ul>
+<h3>Process:</h3>
+<ul>
+	<li>Generated a list of problems that we thought were prevalent among dorm students and categorized them.</li>
+	<li>We assessed each category to see which problems we could actually address and provide solutions for.</li>
+	<li>We conducted interviews to assess and validate our list of problems and determine which were most prevalent.</li>
+	<li>Create survey for more concrete data.</li>
+	<li>Generate low effort, high return solutions.</li>
+</ul>
+<h4>Survey findings:</h4>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/Slide13.jpg" alt="" title=""/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/Slide14.jpg" alt="" title=""/>
 </div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/Slide15.jpg" alt="" title=""/>
 </div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<h4>Solutions:</h4>
+<ul>
+	<li>Create a utensil, pots, pans and other kitchen supply check-out system.</li>
+	<li>Create more options for storage and longer duration for move out at the end of the semester.</li>
+</ul>
