@@ -25,11 +25,11 @@ Students face many restrictions as dorm residents, what is the biggest issue res
 </ul>
 <h3>Process:</h3>
 <ul>
-	<li>Generated a list of problems that we thought were prevalent among dorm students and categorized them.</li>
-	<li>We assessed each category to see which problems we could actually address and provide solutions for.</li>
-	<li>We conducted interviews to assess and validate our list of problems and determine which were most prevalent.</li>
-	<li>Create survey for more concrete data.</li>
-	<li>Generate low effort, high return solutions.</li>
+	<li>Brainstorm and categorize prevalent problems that dorm residents face.</li>
+	<li>Assess each category to determine which problems could actually be addressed.</li>
+	<li>Conduct interviews to validate our list of problems, determine which were problems were most prevalent, and see what existing solutions were being utilized.</li>
+	<li>Create survey to gain qualitative data.</li>
+	<li>Generate low effort, high impact solutions.</li>
 </ul>
 <h4>Survey findings:</h4>
 <div class="img_row">
@@ -41,8 +41,11 @@ Students face many restrictions as dorm residents, what is the biggest issue res
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/Slide15.jpg" alt="" title=""/>
 </div>
-<h4>Solutions:</h4>
+<h3>Solutions:</h3>
 <ul>
 	<li>Create a utensil, pots, pans and other kitchen supply check-out system.</li>
 	<li>Create more options for storage and longer duration for move out at the end of the semester.</li>
 </ul>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/chart.png" alt="" title=""/>
+</div>

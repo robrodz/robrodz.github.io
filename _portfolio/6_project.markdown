@@ -1,55 +1,38 @@
 ---
 layout: post
-title: Project
-description: a project with no image
-img: 
+title: The Golden Gazette
+description: Journalism, Print Design, Graphic Design
+img: /img/goldengazette/yearbook.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: {{ site.baseurl }}/img/12.jpg
-	---
-
+The Golden Gazette is a newsletter for the Golden Gate Division of Circle K International which encompasses several colleges in the bay area. Each issue highlights events from the previous months and recognizes outstanding members and informs people of upcoming events.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<a href="https://issuu.com/ckigoldengate/docs/gg_summer_newsletter/1?e=13489839/9241200" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/goldengazette/iss1.jpg" alt="" title="example image"/></a>
+	<a href="https://issuu.com/ckigoldengate/docs/gg_fall_newsletter" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/goldengazette/iss2.jpg" alt="" title="example image"/></a>
+	<a href="https://issuu.com/ckigoldengate/docs/gg_yearbook" target="_blank"><img class="col one" src="{{ site.baseurl }}/img/goldengazette/yearbook.jpg" alt="" title="example image"/></a>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Left: Issue 1. Middle: Issue 2. Right: Year-End Edition.
 </div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+<div class="img_large">
+	<img class="col three" src="{{ site.baseurl }}/img/goldengazette/cheers.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	Spread from Issue 1. 
 </div>
 
+<div class="img_large">
+	<img class="col three" src="{{ site.baseurl }}/img/goldengazette/toc.png" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Table of Contents from Issue 2.
+</div>
+<h4>Links to Full Issues:</h4>
+<ul>
+	<li><a href="https://issuu.com/ckigoldengate/docs/gg_summer_newsletter/1?e=13489839/9241200" target="_blank">Issue 1</a></li>
+	<li><a href="https://issuu.com/ckigoldengate/docs/gg_fall_newsletter" target="_blank">Issue 2</a></li>
+	<li><a href="https://issuu.com/ckigoldengate/docs/gg_yearbook" target="_blank">Year-End Edition</a></li>
+</ul>
 
 <br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>

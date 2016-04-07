@@ -11,7 +11,7 @@ github_username:  robrodz
 # Build settings
 markdown: kramdown
 gems: [jekyll-paginate]
-highlighter: pygments
+highlighter: rouge
 
 # Pagination
 paginate: 15
