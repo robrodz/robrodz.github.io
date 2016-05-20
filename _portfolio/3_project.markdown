@@ -1,87 +1,51 @@
 ---
 layout: post
-title: Project Nimbus
-description: UX & Web Development
-img: /img/nimbus/nimbus.png
+title: Improving the Dorm Experience
+description: UX Design
+img: /img/dormexperience/dormexperience.png
 ---
 
-This project was developed in response to a need for a new system at UC Berkeley Circle K to manage the club's events and hours. A new back-end and front-end was developed to cater to both officer and member needs.
-
-
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/nimbus/frustrations.png" alt="" title="example image"/>
-	<!-- <img class="col one" src="{{ site.baseurl }}/img/nimbus/nimbus.png" alt="" title="example image"/> -->
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/dormexperience.png" alt="" title=""/>
 </div>
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/nimbus/musthaves.png" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-</div>
+Improving the Dorm Experience was a project done for a design course at UC Berkeley. Our goal was to select a group of UC Berkeley students and improve an aspect of their life here on campus. We decided to focus on dorm residents as our target group because most UC Berkeley Students currently live in the dorms or have dormed previously.
+
+<h3>The Problem:</h3>
+Students face many restrictions as dorm residents, what is the biggest issue resulting from these restrictions and how can we improve it?
+<h3>My Role:</h3>
+<ul>
+	<li>Conduct Interviews and design survey.</li>
+	<li>Generate possible solutions and assess their potential effectiveness.</li>
+</ul>
+<h3>Research Goals:</h3>
+<ul>
+	<li>Determine which restrictions affect dorm residents the most.</li>
+	<li>Assess how effective current solutions are to these problems.</li>
+	<li>Generate low effort, high return solutions.</li>
+</ul>
 <h3>Process:</h3>
 <ul>
-	<li>Meet with current users to learn frustrations and must haves for new website.</li>
-	<li>Create new interface and back-end system.</li>
-	<li>Preview and test with users.</li>
-	<li>Revise as necessary.</li>
+	<li>Brainstorm and categorize prevalent problems that dorm residents face.</li>
+	<li>Assess each category to determine which problems could actually be addressed.</li>
+	<li>Conduct interviews to validate our list of problems, determine which problems were most prevalent, and see what existing solutions were being utilized.</li>
+	<li>Create survey to gain quantitative data.</li>
+	<li>Generate low effort, high impact solutions.</li>
 </ul>
-<br>
-<h3>Before:</h3>
+<h4>Survey findings:</h4>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/nimbus/before.png" alt="" title="Home Page"/>
-</div>
-<br>
-<h3>Solution:</h3>
-<br>
-<h4>Initial Navigation Bar Sketches:</h4>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/nimbus/nav1.jpg" alt="" title="Home Page"/>
-</div>
-<div class="col three caption">
-	Sketch 1: Horizontal Navigation Bar
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/Slide13.jpg" alt="" title=""/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/nimbus/nav2.jpg" alt="" title="Home Page"/>
-</div>
-<div class="col three caption">
-	Sketch 2: Vertical Navigation Bar
-</div>
-After careful consideration, we decided a vertical navigation bar would be most useful because many functions are nested within broader categories that dropdown.
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/nimbus/nimbushome.png" alt="" title="Home Page"/>
-</div>
-<div class="col three caption">
-	Welcome Page
-</div>
-Redesigned with inclusion of navigation bar for easy access to other features.
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/nimbus/events.jpg" alt="" title="Events"/>
-</div>
-<div class="col three caption">
-	View Events
-</div>
-Chronological Event List with verification status, Date & Time, Location, and Number of Attendees.
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/nimbus/createevent.png" alt="" title="Create Event"/>
-</div>
-<div class="col three caption">
-	Create a new event
-</div>
-Redesigned interface for creating an event.
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/nimbus/managecommittees.png" alt="" title="Manage Committees"/>
-</div>
-<div class="col three caption">
-	Manage Committees
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/Slide14.jpg" alt="" title=""/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/nimbus/managetags.png" alt="" title="Manage Tags"/>
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/Slide15.jpg" alt="" title=""/>
 </div>
-<div class="col three caption">
-	Manage Tags
-</div>
+<h3>Solutions:</h3>
+<ul>
+	<li>Create a utensil, pots, pans and other kitchen supply check-out system.</li>
+	<li>Create more options for storage and longer duration for move out at the end of the semester.</li>
+</ul>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/nimbus/addmrplevels.png" alt="" title="Add MRP Levels"/>
-</div>
-<div class="col three caption">
-	Add MRP Levels
+	<img class="col three" src="{{ site.baseurl }}/img/dormexperience/chart.png" alt="" title=""/>
 </div>
