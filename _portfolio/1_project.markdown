@@ -18,22 +18,22 @@ Washer Talk was a prototype app made as a final project for the {design.} DeCal 
 		<li>Test</li>
 	</ul> -->
 	<h2>Research:</h2>
-	</br>
+	<br/>
 	<h3>Survey</h3>
 	A survey was created to was released to gather more Quantitative Data and more information from college students. Questions were asked regarding  laundry use, laundry process, and cuse are labels.
 
 	Findings: There wasn’t a particular time that most people did laundry. There a wide range of times ranging from morning, noon, afternoon to night. There was also a nearly even split between those who did laundry on the weekend vs the weekday.Most people separated their loads by color or darks/lights but there was also a good amount of people who don’t separate their clothes at all.
-	<br>
+	<br/>
 	<h3>Interviews</h3>
 	Interviews were conducted to gather more in-depth and personal anecdotes about doing laundry. Interviews also revealed some new information that wasn't initially revealed in the survey.
 
 	Key Findings: Though care labels can be a hassle for laundry do-ers, that didn’t seem to be the main problem. For the most part, people can wash their clothes with cold water on normal cycle without ruining most apparel. The biggest problem that was brought up in every interview was full washing machines/dryers, especially when the load is finished and the other person hasn’t taken their belongings out yet.
-	<br>
-	<br>
+	<br/>
 	<h2>Testing</h2>
+	<br/>
 	<h3>Card Sorting</h3>
 	Using card sorting, we were able to see the “must-have” features as well as additional preferred features. Most testers placed a washer/dryer timer at the top of their priority list with the communication to other washer/dryer users shortly after. A care symbol reader was a feature that most users also wanted, but was not in the top of their priority list. Another user wanted a feature of the app that automatically removed the lint from the dryer. While this may not be entirely feasible, this did provide some inspiration for the type of reminders and notifications that could be included in the application.
-
+	<br/>
 	<h3>Paper Prototype Usability Testing</h3>
 	<div class="img_row">
 		<img class="col three" src="{{ site.baseurl }}/img/washertalk/paperprototypes.jpg" alt="" title="Paper Prototype"/>
